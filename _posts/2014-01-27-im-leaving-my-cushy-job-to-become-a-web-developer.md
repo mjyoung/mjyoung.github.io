@@ -29,7 +29,7 @@ playing Diablo 1 and Duke Nukem 3D online with my older brother and my
 cousins. In fact, we played so often that my parents were forced to get our
 household three landlines just so we wouldn't tie up the main phone line! The
 joke was on them though... our main phone line was always tied up by our
-budding pre-teen romances, _hah_!  =)
+budding pre-teen romances, _hah_!
 
 Through computer games, my love for technology grew even more and I began
 messing around with basic HTML webpages. I remember setting up my first free
@@ -46,7 +46,7 @@ most were the intro to programming courses I took, including HTML/CSS and
 VB.net. This was the first hint that perhaps my trajectory wasn't exactly
 where I wanted it to be.
 
-> "**What is your current job?" **
+> **"What is your current job?"**
 
 During my last day of finals in college, I was fortunate enough to receive a
 job offer at a [SaaS](http://en.wikipedia.org/wiki/Software_as_a_service)
@@ -87,9 +87,7 @@ castle? Oh, and make it awesome (please!?!?)._"
 Meanwhile, the master LEGO builder gets to work, putting the pieces together
 one by one, seeing their hard work slowly come together, building something
 amazing from what was once nothing. Now, I don't know about you, but I would
-much rather be the master LEGO builder!_
-
-_
+much rather be the master LEGO builder!
 
 And that's why I felt like I had to make a change. The longer I stayed in my
 current position, the less I retained of the little coding knowledge I had

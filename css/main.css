@@ -39,6 +39,10 @@ a:hover {
   border: none;
 }
 
+blockquote {
+  margin-left: 20px;
+}
+
 .separator {
   color: #555;
 }
@@ -136,7 +140,7 @@ a:hover {
   color: #494949;
   margin-bottom: 0.35em;
   font-size: 3.5em;
-  text-transform: uppercase;
+  /*text-transform: uppercase;*/
   line-height: 1em;
 }
 
@@ -154,7 +158,7 @@ a:hover {
 
 .post a,
 #about a {
-  border-bottom: 1px dashed #8085C1;
+  /*border-bottom: 1px dashed #8085C1;*/
 }
 
 .post a:hover {
@@ -241,7 +245,7 @@ a:hover {
 .post-title {
   font-weight: 600;
   font-size: 1.4em;
-  text-transform: uppercase;
+  /*text-transform: uppercase;*/
 }
 
 .post-date {
@@ -250,7 +254,7 @@ a:hover {
   font-weight: 600;
   font-size: 0.65em;
   display: block;
-  text-transform: lowercase;
+  /*text-transform: lowercase;*/
 }
 
 #sidebar-button {
