@@ -1,7 +1,7 @@
 ---
 layout: post
 title: I'm leaving my cushy job to become a web developer!
-cover: cover.jpg
+cover: makersquare.jpg
 categories:
 - Web Development
 tags:
