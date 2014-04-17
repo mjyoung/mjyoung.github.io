@@ -63,8 +63,6 @@ pay is decent and the perks aren't too shabby -- free lunches twice a week and
 the ability to work from home whenever I want, which is particularly nice
 since I have two puppies at home that need to be let out to use the restroom!
 
-![Meet Curry and Pepper!](http://immichaelyoung.com/wp-content/uploads/2014/01/curry_pepper-300x169.jpg)
-
 > **"Wow, that sounds great! So why the hell are you leaving your job?**"
 
 Good question! While I enjoy being able to affect the direction of the
