@@ -2,3 +2,4 @@ name: Michael Young
 markdown: redcarpet
 pygments: true
 permalink: /:year/:month/:day/:title/
+timezone: America/Texas
