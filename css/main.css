@@ -127,6 +127,10 @@ blockquote {
   margin-bottom: 2em;
 }
 
+#cover-photo {
+  max-width: 95%;
+}
+
 #cover-photo-container,
 #info-container {
   display: block;
