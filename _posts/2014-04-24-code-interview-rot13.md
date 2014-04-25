@@ -42,5 +42,6 @@ def rot26(string)
   string
 end
 {% endhighlight %}
-
+<br />
+Sorry, bad joke... I'll see myself out.
 [rot13]:http://en.wikipedia.org/wiki/ROT13
